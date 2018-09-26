@@ -36,4 +36,7 @@ my_hash = {first: "i'm first!", second: "i'm second!", third: "i'm third!"}
 
 **Top-tip:** *When defining methods, return values matter! Use Pry to drop into your methods and understand what is going on, what the return is, and why tests might not be passing.* 
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-simple-nesting/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-simple-nesting/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Simple Nesting Lab</p>
